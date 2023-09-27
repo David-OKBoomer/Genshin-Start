@@ -10,5 +10,5 @@ How to use it:
 3. Run Genshin.Start.exe
 
 ---------------------------------------------------------------------------------------------------------------
-#Warning
+#Warning#
 ***The software will run in FULL BRIGHTNESS AND MAX VOLUME***
