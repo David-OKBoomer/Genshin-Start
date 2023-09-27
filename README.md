@@ -11,4 +11,4 @@ How to use it:
 
 ---------------------------------------------------------------------------------------------------------------
 <h1>Warning</h1>
-***The software will run in FULL BRIGHTNESS AND MAX VOLUME***
+<h3><b>The software will run in FULL BRIGHTNESS AND MAX VOLUME</b></h3>
