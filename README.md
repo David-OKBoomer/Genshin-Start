@@ -1,7 +1,7 @@
 <h1>原神啟動!</h1>
 Visualised me-me from China, 原神啟動
 
-Required software: VLC player <h2>Remember to add VLC to PATH</h2>, 7zip(extract the file)
+Required software: VLC player ***Remember to add VLC to PATH***(https://www.vlchelp.com/add-vlc-command-prompt-windows/), 7zip(extract the file)
 
 How to use it:
 
